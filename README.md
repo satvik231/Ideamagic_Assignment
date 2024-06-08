@@ -62,18 +62,6 @@ We welcome contributions from the community! If you have ideas for improvements 
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a Pull Request.
 
-Please ensure your code adheres to the existing coding conventions and includes appropriate comments and documentation.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-## Acknowledgements
-
-This project was developed by Ideamagic Company. We thank the open-source community for their valuable contributions and resources.
-
----
-
-Happy coding! If you have any questions or need further assistance, feel free to contact us.
-
-**Ideamagic Company**
